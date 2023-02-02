@@ -1,2 +1,2 @@
-# Caf-Menu
+# Cafe-Menu
 Café Menu - 
